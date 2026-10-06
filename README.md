@@ -20,7 +20,8 @@
 
 <a href="https://youtu.be/ABgLEKFhlZE"><img src="http://i3.ytimg.com/vi/ABgLEKFhlZE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-<a href="https://mouredev.link/warp"><img src="./Images/warp.jpg" style="height: 50%; width:50%;"/></a>   --> capa gratis para usar el agente es desde Warp CLI: https://www.warp.dev/agent-cli
+<a href="https://mouredev.link/warp"><img src="./Images/warp.jpg" style="height: 50%; width:50%;"/></a>   
+-------> capa gratis para usar el agente es desde Warp CLI: https://www.warp.dev/agent-cli
 
 > #### **Descarga [Warp 2](https://mouredev.link/warp):** La terminal y entorno de desarrollo con IA que utilizaremos en el curso.
 

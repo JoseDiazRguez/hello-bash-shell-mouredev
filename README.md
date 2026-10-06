@@ -1,7 +1,7 @@
 # Hello Bash/Shell
 
 [![Bash](https://img.shields.io/badge/bash-5+-green?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/)
-[![Warp](https://img.shields.io/badge/warp-2-blue?style=for-the-badge&logo=warp&logoColor=white&labelColor=101010)](https://mouredev.link/warp)
+[![Warp](https://img.shields.io/badge/warp-2-blue?style=for-the-badge&logo=warp&logoColor=white&labelColor=101010)](https://mouredev.link/warp) --> capa gratis para usar el agente es desde Warp CLI: https://www.warp.dev/agent-cli
 
 ## Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero y para principiantes
 

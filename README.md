@@ -1,7 +1,7 @@
 # Hello Bash/Shell
 
 [![Bash](https://img.shields.io/badge/bash-5+-green?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/)
-[![Warp](https://img.shields.io/badge/warp-2-blue?style=for-the-badge&logo=warp&logoColor=white&labelColor=101010)](https://mouredev.link/warp) --> capa gratis para usar el agente es desde Warp CLI: https://www.warp.dev/agent-cli
+[![Warp](https://img.shields.io/badge/warp-2-blue?style=for-the-badge&logo=warp&logoColor=white&labelColor=101010)](https://mouredev.link/warp)
 
 ## Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero y para principiantes
 
@@ -20,7 +20,7 @@
 
 <a href="https://youtu.be/ABgLEKFhlZE"><img src="http://i3.ytimg.com/vi/ABgLEKFhlZE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-<a href="https://mouredev.link/warp"><img src="./Images/warp.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://mouredev.link/warp"><img src="./Images/warp.jpg" style="height: 50%; width:50%;"/></a>   --> capa gratis para usar el agente es desde Warp CLI: https://www.warp.dev/agent-cli
 
 > #### **Descarga [Warp 2](https://mouredev.link/warp):** La terminal y entorno de desarrollo con IA que utilizaremos en el curso.
 
